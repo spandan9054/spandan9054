@@ -35,9 +35,10 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
   </a>
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" alt="n8n" width="50" height="50"/>
-  </a>
+ <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/design-system/src/assets/images/n8n-logo.svg" alt="n8n" width="50" height="50"/>
+</a>
+
 </p>
 
 
